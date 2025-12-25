@@ -129,7 +129,7 @@
 
         /* Hero Section */
         .hero {
-            background: url('img/careassistant.png');
+            background: url('../img/careassistant.png');
             background-size: cover;
             background-position: center;
             color: black;
@@ -551,6 +551,7 @@
         }
 
   
+
 
 
 
