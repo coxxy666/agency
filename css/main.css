@@ -129,7 +129,7 @@
 
         /* Hero Section */
         .hero {
-            background: url('/img/premium_photo-1665203568927-bf0e58ee3d20.avif');
+            background: url('/img/premium_photo-1665203568927-bf0e58ee3d20.png');
             background-size: cover;
             background-position: center;
             color: black;
@@ -549,4 +549,5 @@
                 padding: 25px 15px;
             }
         }
+
   
